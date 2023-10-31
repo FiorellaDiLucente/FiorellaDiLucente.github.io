@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water Resources | FDL</title>
+    <link>https://FiorellaDiLucente.github.io/tag/water-resources/</link>
+      <atom:link href="https://FiorellaDiLucente.github.io/tag/water-resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>Water Resources</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://FiorellaDiLucente.github.io/media/icon_hu9fccdff8c4402c53ff61e281b147a55c_226301_512x512_fill_lanczos_center_3.png</url>
+      <title>Water Resources</title>
+      <link>https://FiorellaDiLucente.github.io/tag/water-resources/</link>
+    </image>
+    
+    <item>
+      <title>Santa Cruz river dams (Patagonia Argentina)</title>
+      <link>https://FiorellaDiLucente.github.io/project/santa-cruz-dam/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://FiorellaDiLucente.github.io/project/santa-cruz-dam/</guid>
+      <description>&lt;p&gt;Project duration: 72 months&lt;/p&gt;
+&lt;p&gt;BID Amount: $4.8 billion&lt;/p&gt;
+&lt;p&gt;The project consists in two hydropower dams along the Santa Cruz river and is the largest infrastructure project in Argentina nowadays. The install capacity will be 1,310 MW, with an average annual plant generation of 5,100 GWh.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Condo Cliff dam&lt;/strong&gt;
+&lt;br&gt;
+Install capacity: 950 MW
+&lt;br&gt;
+Annual generation: 3270 GWh
+&lt;br&gt;
+Turbomachines: 5 Francis
+&lt;br&gt;
+Dam type: Concrete face rockfill dam (CFRD)
+&lt;br&gt;
+Dam height: 240 ft (73 meters)
+&lt;br&gt;
+Dam lenght: 6,562 ft (2,000 meters)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;La Barrancosa dam&lt;/strong&gt;
+&lt;br&gt;
+Install capacity: 360 MW
+&lt;br&gt;
+Annual generation: 1900 GWh
+&lt;br&gt;
+Turbomachines: 3 Kaplan
+&lt;br&gt;
+Dam type: Concrete face rockfill dam (CFRD)
+&lt;br&gt;
+Dam height: 135 ft (41 meters)
+&lt;br&gt;
+Dam lenght: 8,022 ft (2,445 meters)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El Tambolar Dam (San Juan, Argentina)</title>
+      <link>https://FiorellaDiLucente.github.io/project/el-tambolar/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://FiorellaDiLucente.github.io/project/el-tambolar/</guid>
+      <description>&lt;p&gt;BID Amount: $750 million&lt;/p&gt;
+&lt;p&gt;The project consists in a multi purpose dam on the San Juan river, Argentina, and will be the fourth dam built along the river.&lt;/p&gt;
+&lt;p&gt;Install capacity: 78 MW
+&lt;br&gt;
+Annual generation: 346.5 GWh
+&lt;br&gt;
+Turbomachines: 2 Francis
+&lt;br&gt;
+Dam type: Concrete face rockfill dam (CFRD)
+&lt;br&gt;
+Dam height: 272 ft (83 meters)
+&lt;br&gt;
+Dam lenght: 370 ft (113 meters)
+&lt;br&gt;
+Reservoir capacity = 490,482 acre-ft (605 Hm3)
+&lt;br&gt;
+Spilway discharge capacity = 162,448 cu ft/s (4600 m3/s)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portezuelo del Viento Dam (Mendoza, Argentina)</title>
+      <link>https://FiorellaDiLucente.github.io/project/portezuelo/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://FiorellaDiLucente.github.io/project/portezuelo/</guid>
+      <description>&lt;p&gt;Project duration: 5 years&lt;/p&gt;
+&lt;p&gt;BID Amount: $ 720 million&lt;/p&gt;
+&lt;p&gt;Install capacity: 210 MW
+&lt;br&gt;
+Annual generation: 884 GWh
+&lt;br&gt;
+Turbomachines: 3 Francis
+&lt;br&gt;
+Dam type: roller-compacted concrete (RCC)
+&lt;br&gt;
+Dam height: 607 ft (185 meters)
+&lt;br&gt;
+Reservoir capacity = 1,621,426 acre-ft (2000 Hm3)
+&lt;br&gt;
+Spilway discharge capacity = 56,503 cu ft/s (1600 m3/s)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
